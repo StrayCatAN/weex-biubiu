@@ -1,0 +1,29 @@
+{
+  "name": "weex-biubiu",
+  "version": "1.0.0",
+  "description": "// 决定用vue写",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --hot --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StrayCatAN/weex-biubiu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StrayCatAN/weex-biubiu/issues"
+  },
+  "homepage": "https://github.com/StrayCatAN/weex-biubiu#readme",
+  "devDependencies": {
+    "vue": "^2.5.13",
+    "vue-loader": "^13.7.0",
+    "vue-router": "^3.0.1",
+    "vue-template-compiler": "^2.5.13",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.0"
+  }
+}
