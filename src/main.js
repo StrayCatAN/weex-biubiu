@@ -1,7 +1,1 @@
-const Vue = require('vue')
-new Vue({
-  el: '#app',
-  data: {
-    message: 'Hello Vue~'
-  }
-});
+document.write('来自main.jssss的问候！')
